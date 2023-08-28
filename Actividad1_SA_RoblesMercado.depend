@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1693188189 source:c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad1_sa_roblesmercado\actividad1_sa_roblesmercado\src\paquete.cpp
+	"paquete.h"
+
+1693183481 c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad1_sa_roblesmercado\actividad1_sa_roblesmercado\include\paquete.h
+	<iostream>
+	<iomanip>
+
+1693188216 source:c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad1_sa_roblesmercado\actividad1_sa_roblesmercado\src\paqueteria.cpp
+	"paqueteria.h"
+	<fstream>
+	<algorithm>
+
+1693188189 c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad1_sa_roblesmercado\actividad1_sa_roblesmercado\include\paqueteria.h
+	"paquete.h"
+	<vector>
+
